@@ -1,0 +1,2 @@
+# UPZMG
+Configuración de Rasberry
